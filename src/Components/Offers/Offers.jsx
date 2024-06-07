@@ -12,7 +12,7 @@ export const Offers = () => {
                 <p>Les produits les plus demande</p>
                 <button>Commencez maintenant</button>
             </div>
-            <div className="offers right">
+            <div className="offers-right">
             <img src={exclusive_img} alt="" />
             </div>
         </div>
